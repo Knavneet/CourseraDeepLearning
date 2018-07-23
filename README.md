@@ -63,15 +63,3 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
 
-
-~~- [Screenshots for Course 3: Structuring Machine Learning Projects](https://github.com/Kulbear/deep-learning-coursera/issues/3)~~
-
-~~- [Screenshots for Course 4: Convolutional Neural Networks](https://github.com/Kulbear/deep-learning-coursera/issues/14)~~
-
-~~- Screenshots for Course 5: Sequence Models~~
-
-
-## Milestones
-
-  - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
-# CourseraDeepLearning
